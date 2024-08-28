@@ -1,11 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document1</title>
+    <title>Namaste React</title>
 </head>
+
 <body>
-    Test
+    <div id="root">  </div>
+        <!-- Inject React -->      
+        <script 
+        crossorigin src="https://unpkg.com/react@18/umd/react.development.js" 
+        ></script>  <!-- The core of React -->
+
+        <script 
+        crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"
+        ></script> <!-- Bridge between React and DOM -->
+
+        <script src="./App.js">
+        </script>
 </body>
 </html>
