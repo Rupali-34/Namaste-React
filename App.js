@@ -4,11 +4,11 @@ import ReactDOM from "react-dom/client";
 const parent = React.createElement(
   "div",
   { id: "parent" },[ React.createElement("div", { id: "child" }, [
-    React.createElement("h1", {}, "Hello from Banaglore"),
+    React.createElement("h1", {}, "My First React WebApp ❤"),
     React.createElement("h1", {}, "Hello from India"),
   ]),
   React.createElement("div", { id: "child2" }, [
-    React.createElement("h1", {}, "Hello from Bhubaneswar"),
+    React.createElement("h1", {}, "Hello from Berhampur"),
     React.createElement("h1", {}, "Hello from Odisha"),
   ]),]
  

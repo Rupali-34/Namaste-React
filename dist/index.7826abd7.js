@@ -2962,13 +2962,13 @@ const parent = /*#__PURE__*/ (0, _reactDefault.default).createElement("div", {
     /*#__PURE__*/ (0, _reactDefault.default).createElement("div", {
         id: "child"
     }, [
-        /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {}, "Hello from Banaglore"),
+        /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {}, "My First React WebApp \u2764"),
         /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {}, "Hello from India")
     ]),
     /*#__PURE__*/ (0, _reactDefault.default).createElement("div", {
         id: "child2"
     }, [
-        /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {}, "Hello from Bhubaneswar"),
+        /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {}, "Hello from Berhampur"),
         /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {}, "Hello from Odisha")
     ])
 ]);

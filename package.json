@@ -2,7 +2,6 @@
   "name": "namaste-react",
   "version": "1.0.0",
   "description": "Namaste React by Akshya Saini",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
@@ -20,5 +19,8 @@
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
-  }
+  },
+ "browserlist":[
+   "last 2 versions"
+ ]
 }
